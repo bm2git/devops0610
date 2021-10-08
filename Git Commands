@@ -1,0 +1,13 @@
+https://www.w3resource.com/python-exercises/
+
+Repository URL https://github.com/bm2git/Devops-Git.git
+
+token pass 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
+
+to delete unwanted branch ------ git branch -d <brance name>
+
+Get last 3 logs -- git log -n<no of logs/ commits>
+
+To delete/revert the code in the working directory file -- git checkout -- <file name>
+
+How to delete a Commit git reset <commit id>
